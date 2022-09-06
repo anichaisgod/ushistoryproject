@@ -196,7 +196,7 @@
     background: #E55D87;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #5FC3E4, #E55D87);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #5FC3E4, #E55D87); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    padding: 200px 0;
+    padding: 300px 0;
 
   }
 
@@ -307,6 +307,7 @@
     -webkit-text-fill-color: transparent;
     -moz-text-fill-color: transparent;
     font-size: 3rem;
+    padding-bottom: 5rem;
 
 
   }
@@ -332,6 +333,7 @@
     align-items: center;
     height: 100%;
     padding: 20rem 0;
+    
    }
 
    .location h1{
